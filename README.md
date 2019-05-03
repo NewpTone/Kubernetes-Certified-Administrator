@@ -134,7 +134,7 @@ $ kubectl get svc  -o wide --show-labels --all-namespaces
 * [Understand Deployments and how to perform rolling updates and rollbacks](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
 * [Know various ways to configure applications](https://kubernetes.io/docs/concepts/cluster-administration/manage-deployment/)
 * [Know how to scale applications](https://kubernetes.io/docs/concepts/cluster-administration/manage-deployment/#scaling-your-application)
-* Understand the primitives necessary to create a self-healing application
+* [Understand the primitives necessary to create a self-healing application](https://multinode-kubernetes-cluster.readthedocs.io/en/latest/14-k8s-selfhealing.html)
 
 ### Scheduling 5%
 * [Use label selectors to schedule Pods](https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/)
