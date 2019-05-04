@@ -152,7 +152,7 @@ $ kubectl get svc  -o wide --show-labels --all-namespaces
 * [Know how to configure the Kubernetes scheduler](https://kubernetes.io/docs/tasks/administer-cluster/configure-multiple-schedulers/)
 
 ### [Logging/Monitoring](https://kubernetes.io/docs/concepts/cluster-administration/logging/) 5%
-* [Monitoring Kubernetes](https://www.datadoghq.com/blog/monitoring-kubernetes-era/)
+* [Monitoring Kubernetes](https://logz.io/blog/kubernetes-monitoring/)
 * [Understand how to monitor all cluster components](https://kubernetes.io/docs/tasks/debug-application-cluster/resource-usage-monitoring/)
 * [Pod and Node metrics](https://kubernetes.io/docs/reference/kubectl/cheatsheet/#interacting-with-running-pods)
 * Understand how to monitor applications
